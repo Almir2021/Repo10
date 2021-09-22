@@ -1,5 +1,5 @@
 // Only change code below this line
-  myClothes = {
+ var  myClothes = {
       hat : "Fedora",
       shirt: "Nike",
       shoes : "Converse"
