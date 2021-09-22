@@ -15,6 +15,6 @@
 
 
 // Only change code above this line
- console.log(myFunction(this.hatValue));
+ console.log( myClothes.shirt);
 
  module.exports = myFunction(myClothes);
