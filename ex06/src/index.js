@@ -1,6 +1,6 @@
 // Create lion object here
  var lion = {
-     mane: "Simba" ,
+     name: "Simba" ,
      legs : 4,
      tails : 1
 
